@@ -1,0 +1,9 @@
+public/* linguist-vendored
+*.json linguist-detectable=false
+
+dist/* linguist-vendored
+*.html linguist-vendored
+Cargo.lock linguist-generated
+
+*.yml linguist-detectable=false
+src/**/*.ts linguist-detectable
