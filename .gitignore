@@ -1,0 +1,6 @@
+coverage/
+*.log
+.next/
+.pnpm-store/
+.env
+.env.local
